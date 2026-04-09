@@ -13,7 +13,5 @@ Keyes Arduino DIY电子积木 37合1
 利用arduino IDE软件平台制作的，课程中我们提供了对应的原理图、接线方法、c语言代码、实验结果和简单的代码
 介绍等信息。通过这些课程，可以让我们对编程方法、逻辑、电子电路有了更深刻的理解。
 
-## [点击跳转到教程](https://d.2h.hk/@s/kfPMDUlt)
-
-注意：如果没有跳转成功刷新一下就行
+## [点击跳转到教程](https://pan.baidu.com/s/1KvSK2YswOzjUW1yud3LPjA?pwd=kf7v)
 
